@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b088396-d3a5-4168-962f-b1b1b31dc416": {
+      "ProjectGuid": "1b088396-d3a5-4168-962f-b1b1b31dc416",
+      "DisplayName": "AuthProvider",
+      "ColorIndex": 0
+    },
+    "08c4552a-4803-43eb-85b9-ac47ecaf0dd5": {
+      "ProjectGuid": "08c4552a-4803-43eb-85b9-ac47ecaf0dd5",
+      "DisplayName": "WebAPIOne",
+      "ColorIndex": 1
+    },
+    "31301815-50db-45d3-a69d-93c4e355b400": {
+      "ProjectGuid": "31301815-50db-45d3-a69d-93c4e355b400",
+      "DisplayName": "WebAPITwo",
+      "ColorIndex": 2
+    },
+    "6ea4afed-3849-4cb5-b21d-e7928748b0c7": {
+      "ProjectGuid": "6ea4afed-3849-4cb5-b21d-e7928748b0c7",
+      "DisplayName": "WebAPITwo",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

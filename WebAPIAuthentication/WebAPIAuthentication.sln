@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthProvider", "AuthProvider\AuthProvider.csproj", "{1B088396-D3A5-4168-962F-B1B1B31DC416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIOne", "WebAPIOne\WebAPIOne.csproj", "{08C4552A-4803-43EB-85B9-AC47ECAF0DD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPITwo", "WebAPITwo\WebAPITwo.csproj", "{6EA4AFED-3849-4CB5-B21D-E7928748B0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B088396-D3A5-4168-962F-B1B1B31DC416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B088396-D3A5-4168-962F-B1B1B31DC416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B088396-D3A5-4168-962F-B1B1B31DC416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B088396-D3A5-4168-962F-B1B1B31DC416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C4552A-4803-43EB-85B9-AC47ECAF0DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C4552A-4803-43EB-85B9-AC47ECAF0DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C4552A-4803-43EB-85B9-AC47ECAF0DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C4552A-4803-43EB-85B9-AC47ECAF0DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA4AFED-3849-4CB5-B21D-E7928748B0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA4AFED-3849-4CB5-B21D-E7928748B0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA4AFED-3849-4CB5-B21D-E7928748B0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA4AFED-3849-4CB5-B21D-E7928748B0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6051FA82-4E6D-461E-8DF0-94B13CCBF116}
+	EndGlobalSection
+EndGlobal

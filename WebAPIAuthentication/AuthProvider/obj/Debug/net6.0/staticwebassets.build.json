@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h+zVv1ga8RsIullO7AA1TL340TCW/yOHNbQPcfO1l9k=",
+  "Source": "AuthProvider",
+  "BasePath": "_content/AuthProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
